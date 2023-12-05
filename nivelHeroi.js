@@ -1,4 +1,4 @@
-let nomeHeroi = "Jenos"
+let nomeHeroi = "Barik"
 let xpHeroi = 5500
 let nivel;
 
